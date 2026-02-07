@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アフター・パーティー",
+  "base_artist": "Ne-Yo",
+  "createdAt": "2026-02-07T10:55:08.117792Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After Party",
+      "artist": "Ne-Yo",
+      "has_synced": false,
+      "path": "select/pl_01_After_Party_Ne-Yo.txt"
+    }
+  ]
+}
